@@ -1,3 +1,4 @@
+package com.tugas2;
 import java.util.Date;
 
 public class Soal2 extends AbstractSoal {
