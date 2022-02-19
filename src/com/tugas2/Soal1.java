@@ -1,5 +1,4 @@
 package com.tugas2;
-import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class Soal1 extends AbstractSoal {
